@@ -1,3 +1,5 @@
+JSON.parse(localStorage.token).refresh_token
+
 # aliyundrive-checkin2
 - aliyundrive-checkin是一个定时自动签到的python程序
 - 2024/02/08： 优化了action格式, 并添加了python依赖包的缓存 [[@hughware](https://github.com/hughware)]
